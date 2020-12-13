@@ -3,7 +3,7 @@ This website exists as a repository for full my stack development training proje
 ### Current pages on this website include:
 - **[freeCodeCamp Progress](/fcc/)**
 : This page was created to track my progress through the freeCodeCamp certification curriculum.
-- **[100DaysOfCode](/100daysofcode/)**
+- **[100DaysOfCode](/100daysofcode.md)**
 : This was created as a simple microblog to track my progress through #100DaysOfCode beginning in mid-December 2020.
 - **[Google IT Support Professional Certificate Program Log](/it-support-pro-certificate-program.md)**
 :  This simple microblog was created to track my progress through the Google IT Support Professional Certificate Program.
