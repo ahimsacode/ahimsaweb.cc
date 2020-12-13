@@ -10,8 +10,7 @@ This website exists as a repository for full my stack development training proje
 - **[ahimsacode.github.io](https://ahimsacode.github.io/)**
 : This is a blog I created adjecent to this website to blog about my developer training process. This project runs on the Jeckyl framework and is hosted on GitHub Pages.
 - **more coming soon...**
-
-
+---
 ### Find me online:
 - **GitHub:** [ahimsacode](https://github.com/ahimsacode)
 - **freeCodeCamp:** [ahimsacode](https://www.freecodecamp.org/ahimsacode)
