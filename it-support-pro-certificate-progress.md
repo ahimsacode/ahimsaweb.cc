@@ -6,7 +6,7 @@ This page was created to track my progress through the **Google IT Support Profe
 ### Part I. Technical Support Fundamentals ###
 - [x] ~~Week 1: Introduction to IT~~ **(Completed 2020-12-12)**
 - [x] ~~Week 2: Hardware~~ **(Completed 2020-12-13)**
-- [ ] Week 3: Operating System
+- [x] ~~Week 3: Operating System~~ **(Completed 2020-12-14)**
 - [ ] Week 4: Networking
 - [ ] Week 5: Software
 - [ ] Week 6: Troubleshooting
