@@ -2,10 +2,10 @@ Odin Project Progress
 ---
 This page was created to track my progress through the **Odin Project Full-Stack Developer Track**. My progress is also being tracked on my [100DaysOfCode microblog](/100DaysOfCode).
 
----
+
 Last Updated: 2020-12-13
 
----
+
 ## FOUNDATIONS ##
 ### Introduction ###
 - [x] ~~1. How this Course Will Work~~ **(Completed 2020-12-13)**
@@ -46,9 +46,9 @@ Last Updated: 2020-12-13
 - [ ] 11. Fundamentals Part 5
 - [ ] 12. **Project: Calculator**
 
-## The Back End ##
+### The Back End ###
 - [ ] 1. Introduction to the Back End
 - [ ] 2. Introductionto Frameworks
 
-## Tying it All Together ##
+### Tying it All Together ###
 - [ ] 1. Conclusion
