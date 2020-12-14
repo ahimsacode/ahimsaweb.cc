@@ -1,8 +1,8 @@
 Google IT Support Professional Certificate Program Progress
 ---
 ### Part I. Technical Support Fundamentals ###
-- [x] Week 1: Introduction to IT
-- [x] Week 2: Hardware
+- [x] Week 1: Introduction to IT *(Completed 2020-12-12)*
+- [x] Week 2: Hardware *(Completed 2020-12-13)*
 - [ ] Week 3: Operating System
 - [ ] Week 4: Networking
 - [ ] Week 5: Software
