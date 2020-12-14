@@ -7,7 +7,6 @@ Last Updated: 2020-12-13
 
 ---
 ## FOUNDATIONS ##
----
 ### Introduction ###
 - [x] ~~1. How this Course Will Work~~ **(Completed 2020-12-13)**
 - [x] ~~2. Introduction to Web Development~~ **(Completed 2020-12-13)**
