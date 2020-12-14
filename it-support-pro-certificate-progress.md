@@ -1,4 +1,4 @@
-##Google IT Support Professional Certificate Program Progress##
+Google IT Support Professional Certificate Program Progress
 ---
 ### Part I. Technical Support Fundamentals###
 - [x] Week 1: Introduction to IT
