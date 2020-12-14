@@ -1,5 +1,6 @@
 ## Google IT Support Professional Certificate Program Log
 This simple microblog was created to track my progress through the [Google IT Support Professional Certificate Program](https://grow.google/programs/it-support/). 
+
 [[View current progress]](/it-support-pro-certificate-progress.md/) 
 
 ### Day 3: Monday, 14 December 2020
