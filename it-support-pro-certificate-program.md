@@ -1,5 +1,5 @@
 ## Google IT Support Professional Certificate Program Log
----
+
 ### Day 3: Monday, 14 December 2020
 **Today's Progress**:
 Today I completed week 3 of the *Technical Support Fundamentals* course, which covered operating systems. Today's materials, like much of the preceeding material, was mostly review for me. The assessment for the week required me to created a new file in both a Windows 10 and a Linux CLI environment. The task itself was obviously incredibly easy, but I did learn a little in the process because I needed to install and setup Microsoft Remote Desktop for macOS in order to connect to a virtual machine to perform the Windows task, which while not complicated, was a new experience for me. Using Terminal to connect to the Linux machine via SSH was obviously much quicker as I'm fairly experienced with the command line and I didn't need to install any third-party software to complete the task.
