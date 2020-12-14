@@ -1,8 +1,11 @@
 Google IT Support Professional Certificate Program Progress
 ---
+This page was created to track my progress through the **Google IT Support Professional Certificate Program**. I am also keeping [a regular microblog](/it-support-pro-certificate-program) to document my progress.
+
+---
 ### Part I. Technical Support Fundamentals ###
-- [x] Week 1: Introduction to IT *(Completed 2020-12-12)*
-- [x] Week 2: Hardware *(Completed 2020-12-13)*
+- [x] Week 1: Introduction to IT **(Completed 2020-12-12)**
+- [x] Week 2: Hardware **(Completed 2020-12-13)**
 - [ ] Week 3: Operating System
 - [ ] Week 4: Networking
 - [ ] Week 5: Software
