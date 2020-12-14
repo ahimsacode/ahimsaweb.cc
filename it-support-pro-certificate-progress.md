@@ -1,6 +1,6 @@
 Google IT Support Professional Certificate Program Progress
 ---
-### Part I. Technical Support Fundamentals###
+### Part I. Technical Support Fundamentals ###
 - [x] Week 1: Introduction to IT
 - [x] Week 2: Hardware
 - [ ] Week 3: Operating System
@@ -8,7 +8,7 @@ Google IT Support Professional Certificate Program Progress
 - [ ] Week 5: Software
 - [ ] Week 6: Troubleshooting
 
-###Part II. The Bits and Bytes of Computer Networking###
+### Part II. The Bits and Bytes of Computer Networking ###
 - [ ] Week 1: Introduction to Networking
 - [ ] Week 2: The Network Layer
 - [ ] Week 3: The Transport and Application Layers
@@ -16,7 +16,7 @@ Google IT Support Professional Certificate Program Progress
 - [ ] Week 5: Connecting to the Internet
 - [ ] Week 6: Troubleshooting and the Future of Networking
 
-###Part III. Operating Systems and You: Becoming a Power User###
+### Part III. Operating Systems and You: Becoming a Power User ###
 - [ ] Week 1: Navigating the System
 - [ ] Week 2: Users and Permissions
 - [ ] Week 3: Package and Software Management
@@ -24,7 +24,7 @@ Google IT Support Professional Certificate Program Progress
 - [ ] Week 5: Process Management
 - [ ] Week 6: Operating Systems in Practice
 
-###Part IV: System Administration and IT Infrastructure Services###
+### Part IV: System Administration and IT Infrastructure Services ###
 - [ ] Week 1: What is System Administration
 - [ ] Week 2: Network and Infrastructure Services
 - [ ] Week 3: Software and Platform Services
@@ -32,7 +32,7 @@ Google IT Support Professional Certificate Program Progress
 - [ ] Week 5: Data Recovery & Backups
 - [ ] Week 6: Final Project
 
-###Part V: IT Security: Defense Against the Digital Dark Arts###
+### Part V: IT Security: Defense Against the Digital Dark Arts ###
 - [ ] Week 1: Understanding Security Threats
 - [ ] Week 2: Pelcgbybtl (Cryptology)
 - [ ] Week 3: AAA Security (Not Roadside Assistance)
