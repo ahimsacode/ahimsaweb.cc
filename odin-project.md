@@ -3,7 +3,7 @@ Odin Project Progress
 This page was created to track my progress through the **Odin Project Full-Stack Developer Track**. My progress is also being tracked on my [100DaysOfCode microblog](/100DaysOfCode).
 
 
-Last Updated: 2020-12-13
+**Last Updated:** 2020-12-13
 
 
 ## FOUNDATIONS ##
