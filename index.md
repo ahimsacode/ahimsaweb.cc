@@ -5,7 +5,7 @@ This website exists as a repository for full my stack development training proje
 : This was created as a simple microblog to track my progress through 100DaysOfCode beginning in mid-December 2020.
 - **[The Odin Project Progress](/odin-project.md)**
 : I created this simple microblog to track my progress through the Odin Project Full-Stack Developer Curriculum in conjunction with begining the 100DaysOfCode challenge.
-- **[freeCodeCamp Progress](/fcc/)**
+- **[freeCodeCamp Progress](/fcc.md)**
 : This page was created to track my progress through the freeCodeCamp certification curriculum.
 - **[Google IT Support Professional Certificate Program Log](/it-support-pro-certificate-program.md)**
 :  This simple microblog was created to track my progress through the Google IT Support Professional Certificate Program.
