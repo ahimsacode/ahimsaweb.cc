@@ -213,7 +213,7 @@ On 29 November, 2020 I decided to touch up my developer skills and began working
   - [ ] [Build a Product Landing Page](/fcc/01-03-product-landing-page/)
 - [ ] [Build a Technical Documentation Page](#)
 - [ ] [Build a Personal Portfolio Webpage](#)
-				
+---
 ## JavaScript Algorithms and Data Structures Certification (300 hours) ##
 ### Basic JavaScript ###
 - [ ] Introduction to JavaScript
@@ -412,8 +412,8 @@ On 29 November, 2020 I decided to touch up my developer skills and began working
 - [ ] Catch Off By One Errors When Using Indexing
 - [ ] Use Caution When Reinitializing Variables Inside a Loop
 - [ ] Prevent Infinite Loops with a Valid Terminal Condition
+
 ### Basic Data Structures ###
-				<ul class="child">
 - [ ] Introduction to the Basic Data Structure Challenges
 - [ ] Use an Array to Store a Collection of Data
 - [ ] Access an Array's Contents Using Bracket Notation
@@ -436,7 +436,7 @@ On 29 November, 2020 I decided to touch up my developer skills and began working
 - [ ] Generate an Array of All Object Keys with Object.keys()
 - [ ] Modify an Array Stored in an Object
 
-## Basic Algorithm Scripting ##
+### Basic Algorithm Scripting ###
 - [ ] Introduction to Basic Algorithm Scripting
 - [ ] Convert Celsius to Fahrenheit
 - [ ] Reverse a String
@@ -455,7 +455,7 @@ On 29 November, 2020 I decided to touch up my developer skills and began working
 - [ ] Mutations
 - [ ] Chunky Monkey
 
-## Object Oriented Programming ##
+### Object Oriented Programming ###
 - [ ] Introduction to the Object Oriented Programming Challenges
 - [ ] Create a Basic JavaScript Object
 - [ ] Use Dot Notation to Access the Properties of an Object
@@ -483,7 +483,8 @@ On 29 November, 2020 I decided to touch up my developer skills and began working
 - [ ] Use Closure to Protect Properties Within an Object from Being Modified Externally
 - [ ] Understand the Immediately Invoked Function Expression (IIFE)
 - [ ] Use an IIFE to Create a Module
-## Functional Programming ##
+
+### Functional Programming ###
 - [ ] Introduction to the Functional Programming Challenges
 - [ ] Learn About Functional Programming
 - [ ] Understand Functional Programming Terminology
@@ -510,7 +511,7 @@ On 29 November, 2020 I decided to touch up my developer skills and began working
 - [ ] Use the some Method to Check that Any Elements in an Array Meet a Criteria
 - [ ] Introduction to Currying and Partial Application
 
-## Intermediate Algorithm Scripting ##
+### Intermediate Algorithm Scripting ###
 - [ ] Introduction to the Intermediate Algorithm Scripting Challenges
 - [ ] Sum All Numbers in a Range
 - [ ] Diff Two Arrays
@@ -534,7 +535,7 @@ On 29 November, 2020 I decided to touch up my developer skills and began working
 - [ ] Make a Person
 - [ ] Map the Debris
 
-## JavaScript Algorithms and Data Structures Projects ##
+### JavaScript Algorithms and Data Structures Projects ###
 - [ ] [Introduction to the JavaScript Algorithms and Data Structures Projects]()
 - [ ] [Palindrome Checker](#)
 - [ ] [Roman Numeral Converter](#)
