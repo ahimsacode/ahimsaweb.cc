@@ -208,7 +208,7 @@ On 29 November, 2020 I decided to touch up my developer skills and began working
 
 ### ~Responsive Web Design Projects (in progress) ###
 - [x] [Build a Tribute Page](/fcc/01-01-tribute-page/) **(completed 2020-12-05)**
-- [x] [Build a Survey Form](/fcc/01-02-survey-form/) **(completed 2020-12-06)**
+- [x] [Build a Survey Form](/fcc/01-02-survey-form/) **(completed 2020-12-07)**
 - [ ] [Build a Product Landing Page](/fcc/01-03-product-landing-page/)
 - [ ] [Build a Technical Documentation Page](#)
 - [ ] [Build a Personal Portfolio Webpage](#)
