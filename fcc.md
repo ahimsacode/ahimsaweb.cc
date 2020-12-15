@@ -159,9 +159,9 @@ On 29 November, 2020 I decided to touch up my developer skills and began working
 
 ### ~~Responsive Web Design Principles~~ (completed 2020-12-04) ###
 - [x] ~~Create a Media Query~~ **(completed 2020-12-04)**
-  - [x] ~~Make an Image Responsive~~ **(completed 2020-12-04)**
-  - [x] ~~Use a Retina Image for Higher Resolution Displays~~ **(completed 2020-12-04)**
-  - [x] ~~Make Typography Responsive~~ **(completed 2020-12-04)**
+- [x] ~~Make an Image Responsive~~ **(completed 2020-12-04)**
+- [x] ~~Use a Retina Image for Higher Resolution Displays~~ **(completed 2020-12-04)**
+- [x] ~~Make Typography Responsive~~ **(completed 2020-12-04)**
 
 ### ~~CSS Flexbox (completed 2020-12-04)~~ ###
 - [x] ~~Use display: flex to Position Two Boxes~~ **(completed 2020-12-04)**
