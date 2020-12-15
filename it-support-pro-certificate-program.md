@@ -3,6 +3,14 @@ This simple microblog was created to track my progress through the [Google IT Su
 
 [[View current progress]](/it-support-pro-certificate-progress.md/) 
 
+### Day 4: Monday, 15 December 2020
+**Today's Progress**:
+Today I completed week 4 of the *Technical Support Fundamentals* course, which gave a broad overview of networks. 
+
+**Thoughts:**
+While I've found the topics of most of the material interesting (if not always new), but networking is just one of those topics that I enjoy a bit more than others. I was part of a network administration program at Heald College circa 2004, so a lot of the really basics of network fundamentals weren't new to me, although IoT wasn't a thing back then and IPv6 was something we talked about being on the horizon, but it was not something that had much use yet. Overall the material for the networking course lacked the depth I would have hoped for, but there are courses on networking and cyber security later in the certificate program, so I'm assuming all of the materials for the first 6 lessons are surface level and that once I get to the second course devoted to networking in a couple of days, things will start going a bit deeper.
+
+---
 ### Day 3: Monday, 14 December 2020
 **Today's Progress**:
 Today I completed week 3 of the *Technical Support Fundamentals* course, which covered operating systems. Today's materials, like much of the preceeding material, was mostly review for me. The assessment for the week required me to created a new file in both a Windows 10 and a Linux CLI environment. The task itself was obviously incredibly easy, but I did learn a little in the process because I needed to install and setup Microsoft Remote Desktop for macOS in order to connect to a virtual machine to perform the Windows task, which while not complicated, was a new experience for me. Using Terminal to connect to the Linux machine via SSH was obviously much quicker as I'm fairly experienced with the command line and I didn't need to install any third-party software to complete the task.
