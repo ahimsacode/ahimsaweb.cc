@@ -212,6 +212,7 @@ On 29 November, 2020 I decided to touch up my developer skills and began working
 - [ ] [Build a Product Landing Page](/fcc/01-03-product-landing-page/)
 - [ ] [Build a Technical Documentation Page](#)
 - [ ] [Build a Personal Portfolio Webpage](#)
+
 ---
 ## JavaScript Algorithms and Data Structures Certification (300 hours) ##
 ### Basic JavaScript ###
