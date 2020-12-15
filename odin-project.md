@@ -15,16 +15,16 @@ This page was created to track my progress through the **Odin Project Full-Stack
 - [x] ~~5. How Does the Web Work?~~ **(Completed 2020-12-13)**
 
 ### Installations ###
-- [ ] 1. Installation Overview
-- [ ] 2. Prerequisites
-- [ ] 3. Text Editors
-- [ ] 4. Command Line Basics 
-- [ ] 5: Setting Up Git
+- [x] ~~1. Installation Overview~~ **(Completed 2020-12-14)**
+- [x] ~~2. Prerequisites~~ **(Completed 2020-12-14)**
+- [x] ~~3. Text Editors~~ **(Completed 2020-12-14)**
+- [x] ~~4. Command Line Basics~~ **(Completed 2020-12-14)**
+- [x] ~~5: Setting Up Git~~ **(Completed 2020-12-14)**
 
 ### Git Basics ###
-- [ ] 1. Introduction to Git
-- [ ] 2. Git Basics
-- [ ] 3. **Project: Practicing Git Basics**
+- [x] 1. ~~Introduction to Git~~ **(Completed 2020-12-14)**
+- [x] 2. ~~Git Basics~~ **(Completed 2020-12-14)**
+- [x] 3. [**Project: Practicing Git Basics**](https://github.com/ahimsacode/git_test) **(Completed 2020-12-14)**
 
 ### The Front End ###
 - [ ] 1. Introduction to the Front End
