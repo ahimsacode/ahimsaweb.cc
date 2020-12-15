@@ -1,4 +1,7 @@
-##freeCodeCamp ProgressOn 29 November, 2020 I decided to touch up my developer skills and began working through the course materials on [freeCodeCamp](https://freecodecamp.org). This pages was created to track my progress through the course materials. I've also created [a blog (as a means of learning to use the Jackyl framework within GitHub Pages) where I am logging my process.](https://ahimsacode.github.io).
+##freeCodeCamp Progress##
+---
+On 29 November, 2020 I decided to touch up my developer skills and began working through the course materials on [freeCodeCamp](https://freecodecamp.org). This pages was created to track my progress through the course materials. I've also created [a blog (as a means of learning to use the Jackyl framework within GitHub Pages) where I am logging my process.](https://ahimsacode.github.io).
+
 ## Responsive Web Design Certification (300 hours: In progress)##
 ### Basic HTML and HTML5 (completed 2020-11-30) ###
 	- [x] Say Hello to HTML Elements **(completed 2020-11-29)**
@@ -203,7 +206,7 @@
 				<ul class="child">
 	- [x] [Build a Tribute Page](/fcc/01-01-tribute-page/) **(completed 2020-12-05)**
 	- [x] [Build a Survey Form](/fcc/01-02-survey-form/)
-  - [ ] [Build a Product Landing Page](/fcc/01-03-product-landing-page/)
+  	- [ ] [Build a Product Landing Page](/fcc/01-03-product-landing-page/)
 	- [ ] [Build a Technical Documentation Page](#)
 	- [ ] [Build a Personal Portfolio Webpage](#)
 				
