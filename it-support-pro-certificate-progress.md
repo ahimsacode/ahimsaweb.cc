@@ -7,7 +7,7 @@ This page was created to track my progress through the [Google IT Support Profes
 - [x] ~~Week 2: Hardware~~ **(completed 2020-12-13)**
 - [x] ~~Week 3: Operating System~~ **(completed 2020-12-14)**
 - [x] ~~Week 4: Networking~~ **(completed 2020-12-15)**
-- [ ] Week 5: Software
+- [x] ~~Week 5: Software~~ **(completed 2020-12-16)**
 - [ ] Week 6: Troubleshooting
 
 ### Part II. The Bits and Bytes of Computer Networking ###
