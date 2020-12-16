@@ -4,21 +4,18 @@ This simple microblog was created to track my progress through the [Google IT Su
 [[View current progress]](/it-support-pro-certificate-progress.md/) 
 
 ### Day 5: Wednesday, 16 December, 2020
-**Today's Progress:** 
-
+**Today's Progress:**  
 Today I completed weeks 5 and 6 of the *Technical Support Fundamentals* course, which covered software and troubleshooting. As a result, I have now completed the *Technical Support Fundamentals* course in it's entirety with an overall score of 100%. Completing this course felt really good today, and I was looking forward to jumping into next course on networking tomorrow morning. I learned, however, that my financial aid approval was only for the first course and before I can go onto the next course I must apply for another round of financial aid and wait 15 days to find out if I am approved or not. I have completed that application and should have an answer on 31 December, 2020.
 
-**Thoughts:**
-
+**Thoughts:**  
 It felt good completing this course, although I felt the material was all a bit too basic for my experience level. My knowledge and skills are certainly not advanced or cutting edge, but they are more intermediate than this course was targeted towards. I still hope that the subsequent courses increase in complexity, and I hope I am approved for the next course *The Bits and Bytes of Computer Networking*. I also think I may apply for financial aid for the following courses one day at at time for the next several days.
 
 ---
 ### Day 4: Tuesday, 15 December, 2020
-**Today's Progress:**
-
+**Today's Progress:**  
 Today I completed week 4 of the *Technical Support Fundamentals* course, which gave a broad overview of networks. 
 
-**Thought:s**
+**Thought:s**  
 While I've found the topics of most of the material interesting (if not always new), but networking is just one of those topics that I enjoy a bit more than others. I was part of a network administration program at Heald College circa 2004, so a lot of the really basics of network fundamentals weren't new to me, although IoT wasn't a thing back then and IPv6 was something we talked about being on the horizon, but it was not something that had much use yet. Overall the material for the networking course lacked the depth I would have hoped for, but there are courses on networking and cyber security later in the certificate program, so I'm assuming all of the materials for the first 6 lessons are surface level and that once I get to the second course devoted to networking in a couple of days, things will start going a bit deeper.
 
 ---
