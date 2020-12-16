@@ -171,8 +171,8 @@ This product landing page assignment is honestly a bit more challenging than I w
 Because I'm hoping to begin listing links to completed works for freeCodeCamp beginning tomorrow, I thought I should include in this blog links to the two projects I have already completed.
 
 **Link to work:**
-*[freeCodeCamp Tribute Page Project](https://ahimsaweb.cc/fcc/01-01-tribute-page/) (completed back on 12/05/2020)*
-*[freeCodeCamp Survey Form Project](https://ahimsaweb.cc/fcc/01-02-survey-form/) (completed back on 12/07/2020)*
+- *[freeCodeCamp Tribute Page Project](https://ahimsaweb.cc/fcc/01-01-tribute-page/) (completed back on 12/05/2020)*
+- *[freeCodeCamp Survey Form Project](https://ahimsaweb.cc/fcc/01-02-survey-form/) (completed back on 12/07/2020)*
 
 ---
 ### Day 1: Monday, 14 December 2020
@@ -185,7 +185,7 @@ After the *Installations* section was complete, I moved onto the *Git Basics* se
 I spent less time actually *coding* than I would have expected for day 1 of my 100DaysOfCode challenge, but knowledge was gained, skills were built, and practice was had. All-in-all, I feel like today was a very useful and productive day and my comfort with Git — while still not being anywhere near where I would like it to be — definitely grew from today's experiences. There were even a couple of points in the process where I ran into problems and had to troubleshoot, which of course took up a bit of time, but it is in those problems and the ensuing troubleshooting that learning happens.
 
 **Link to work:**
-[https://github.com/ahimsacode/git_test](https://github.com/ahimsacode/git_test)
+- [https://github.com/ahimsacode/git_test](https://github.com/ahimsacode/git_test)
 
 ---
 ### Day Zer0: Sunday, 13 December 2020
