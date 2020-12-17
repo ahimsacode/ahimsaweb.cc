@@ -11,7 +11,7 @@ This page was created to track my progress through the freeCodeCamp certificatio
 This simple microblog was created to track my progress through the Google IT Support Professional Certificate Program.
 - **[Google IT Support Professional Certificate Progress](/it-support-pro-certificate-progress.md)**  
 This simple site was created to track my progress through the Google IT Support Professional Certificate Program.
-- **[IBM IT Fundamentals for Cybersecurity Certificate Program Log]()**  
+- **[IBM IT Fundamentals for Cybersecurity Certificate Program Log](/it-fundamentals-for-cybersecurity.md)**  
 This simple microblog was created to track my progress through the IBM IT Fundamentals for Cybersecurity certificate program.
 - **[IBM IT Fundamentals for Cybersecurity Certificate Progress](/it-fundamentals-for-cybersecurity-progress.md)**  
 This simple site was created to track my progress through the IBM IT Fundamentals for Cybersecurity certificate program.
