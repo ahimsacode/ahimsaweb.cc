@@ -33,18 +33,14 @@ It's obvious that this course material is design to build upon itself, so we nee
 ---
 ### Day 2: Sunday, 13 December, 2020
 **Today's Progress:**  
-Today I completed week 2 of the *Technical Support Fundamentals* course, which covered hardware basics.
 
 **Thoughts:**  
-The hardware material covered in today's coursework was mostly review, but it made me miss the days long ago when I used to volunteer with a local nonprofit called **[Free Geek](https://freegeek.org)** tearing apart donated computers and building new Linux-based systems. If we were not living in the middle of a pandemic, this material probably would have resulted in me signing up for regular shifts doing volunteer work with them again. If I were not currently out of work, this week's material probably would have led to me purchasing some old computer parts online and building a new computer—something I used to do for fun all the time, but which I haven't done in well over a decade and a half now. As it is, however, I was unable to do any of those things, but the course did require me to "build" a basic virtual PC to demonstrate that I understood the key components that makeup a computer system and where they go.
 
 -->
 ---
 ### Day 1: Thursday, December 17, 2020
-xxx  
-
 **Today's Progress:**  
-xxx
+Today I completed the materials for week 1 of the **Introduction to Cybersecurity Tools & Cyber Attacks** course. I completed the first module (**"History of Cybersecurity"**) and about 2/3 of the second module (**"A brief overview of types of actors and their motives"**).
 
 **Thoughts:**  
-xxx
+The first module was titled **"History of Cybersecurity"**, but the module covered **much** more than that (in fact history made up a couple of videos and a fraction of the material) and this module could have been more accurately titled **"Introduction to Cybersecurity"**. The material of both modules was full of much less review materials than I experienced with the **Technical Support Fundamentals** course for the [Google IT Support Professional Certificate Program](it-support-pro-certificate-progress.md) and I've found the material both more challenging and much more engaging. I've always had a passing interest in cybersecurity, but actually taking the time to begin learning it and I think I may have accidentally stumbled on a new passion!
