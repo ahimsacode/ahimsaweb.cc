@@ -3,7 +3,7 @@ IBM IT Fundamentals for Cybersecurity Progress
 This page was created to track my progress through the [IBM IT Fundamentals for Cybersecurity](https://www.ibm.com/training/badge/aa8b45a3-df14-4874-87bc-5b8c1276407e). I am also keeping [a regular microblog](/it-fundamentals-for-cybersecurity) to document my progress.
 
 ### Course 1. Introduction to Cybersecurity Tools & Cyber Attacks ###
-- [x] Week 1. History of Cybersecurity **(completed 2020-12-17)**
+- [x] Week 1. ~~History of Cybersecurity~~ **(completed 2020-12-17)**
 - [ ] Week 2. A brief overview of types of actors adn their motives
 - [ ] Week 3. An overview of key security concepts
 - [ ] Week 4. An overview of key security tools 
