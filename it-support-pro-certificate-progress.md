@@ -2,7 +2,7 @@ Google IT Support Professional Certificate Program Progress
 ---
 This page was created to track my progress through the [Google IT Support Professional Certificate Program](https://grow.google/programs/it-support/). I am also keeping [a regular microblog](/it-support-pro-certificate-program) to document my progress.
 
-### Part I. Technical Support Fundamentals (Completed 2020-12-16) ###
+### Course 1. Technical Support Fundamentals (Completed 2020-12-16) ###
 - [x] ~~Week 1. Introduction to IT~~ **(completed 2020-12-12)**
 - [x] ~~Week 2. Hardware~~ **(completed 2020-12-13)**
 - [x] ~~Week 3. Operating System~~ **(completed 2020-12-14)**
@@ -10,7 +10,7 @@ This page was created to track my progress through the [Google IT Support Profes
 - [x] ~~Week 5. Software~~ **(completed 2020-12-16)**
 - [x] ~~Week 6. Troubleshooting~~ **(completed 2020-12-16)**
 
-### Part II. The Bits and Bytes of Computer Networking ###
+### Course 2. The Bits and Bytes of Computer Networking ###
 - [ ] Week 1. Introduction to Networking
 - [ ] Week 2. The Network Layer
 - [ ] Week 3. The Transport and Application Layers
@@ -18,7 +18,7 @@ This page was created to track my progress through the [Google IT Support Profes
 - [ ] Week 5. Connecting to the Internet
 - [ ] Week 6. Troubleshooting and the Future of Networking
 
-### Part III. Operating Systems and You: Becoming a Power User ###
+### Course 3. Operating Systems and You: Becoming a Power User ###
 - [ ] Week 1. Navigating the System
 - [ ] Week 2. Users and Permissions
 - [ ] Week 3. Package and Software Management
@@ -26,7 +26,7 @@ This page was created to track my progress through the [Google IT Support Profes
 - [ ] Week 5. Process Management
 - [ ] Week 6. Operating Systems in Practice
 
-### Part IV: System Administration and IT Infrastructure Services ###
+### Course 4. System Administration and IT Infrastructure Services ###
 - [ ] Week 1. What is System Administration
 - [ ] Week 2. Network and Infrastructure Services
 - [ ] Week 3. Software and Platform Services
@@ -34,7 +34,7 @@ This page was created to track my progress through the [Google IT Support Profes
 - [ ] Week 5. Data Recovery & Backups
 - [ ] Week 6. Final Project
 
-### Part V: IT Security: Defense Against the Digital Dark Arts ###
+### Course 5. IT Security: Defense Against the Digital Dark Arts ###
 - [ ] Week 1. Understanding Security Threats
 - [ ] Week 2. Pelcgbybtl (Cryptology)
 - [ ] Week 3. AAA Security (Not Roadside Assistance)
