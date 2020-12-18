@@ -29,18 +29,17 @@ Today I completed week 3 of the *Technical Support Fundamentals* course, which c
 **Thoughts:**  
 It's obvious that this course material is design to build upon itself, so we need to start with the most basic of basics, and while I'm finding the material just interesting enough to keep me engaged, I'm hoping that the material will become more complicated and present more of a challenge as it progresses. On one hand, completing this material may be useful whether I learn much or not, because it will present me with a certificate at the end to show that I am competant in the skills at hand; on the other hand, if I'm going to devote all this time and energy into learning something, I'm hopeful that there will be some real **learning** that comes into play for me at some point. It's also just possible that, having a background in IT and having worked in various entry-level tech roles over the last couple of decades has given me more knowledge than I realized I had.
 -->
-<!-- 
 ---
-### Day 2: Sunday, 13 December, 2020
+### Day 2: Friday, 18 December, 2020
 **Today's Progress:**  
-
+Today I finished module 2 (****"A brief overview of types of actors and their motives"**), I completed module 3 (**"An overview of key security concepts"**)
 **Thoughts:**  
 
--->
+
 ---
-### Day 1: Thursday, December 17, 2020
+### Day 1: Thursday, 17 December, 2020
 **Today's Progress:**  
-Today I completed the materials for week 1 of the **Introduction to Cybersecurity Tools & Cyber Attacks** course. I completed the first module (**"History of Cybersecurity"**) and about 2/3 of the second module (**"A brief overview of types of actors and their motives"**).
+Today I completed the materials for module 1 of the **Introduction to Cybersecurity Tools & Cyber Attacks** course. I completed the first module (**"History of Cybersecurity"**) and about 2/3 of the second module (**"A brief overview of types of actors and their motives"**).
 
 **Thoughts:**  
 The first module was titled **"History of Cybersecurity"**, but the module covered **much** more than that (in fact history made up a couple of videos and a fraction of the material) and this module could have been more accurately titled **"Introduction to Cybersecurity"**. The material of both modules was full of much less review materials than I experienced with the **Technical Support Fundamentals** course for the [Google IT Support Professional Certificate Program](it-support-pro-certificate-progress.md) and I've found the material both more challenging and much more engaging. I've always had a passing interest in cybersecurity, but actually taking the time to begin learning it and I think I may have accidentally stumbled on a new passion!
