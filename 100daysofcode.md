@@ -142,7 +142,7 @@
 --- -->
 ### Day 4: Tuesday, 17 December 2020
 **Today's Progress:**
-Today I spent a good chunk of the day becoming more familiar with Linux. I plan to return to working on my freeCodeCamp projects tomorrow.
+Today I spent a good chunk of the day becoming more familiar with Linux and I also spent some time [learning about and falling in love with cybersecurity](it-fundamentals-for-cybersecurity.md). I plan to return to working on my freeCodeCamp projects tomorrow.
 
 ---
 ### Day 3: Tuesday, 16 December 2020
