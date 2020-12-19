@@ -2,11 +2,11 @@ IBM IT Fundamentals for Cybersecurity Progress
 ---
 This page was created to track my progress through the [IBM IT Fundamentals for Cybersecurity](https://www.ibm.com/training/badge/aa8b45a3-df14-4874-87bc-5b8c1276407e). I am also keeping [a regular microblog](/it-fundamentals-for-cybersecurity) to document my progress.
 
-### Course 1. Introduction to Cybersecurity Tools & Cyber Attacks ###
+### Course 1. Introduction to Cybersecurity Tools & Cyber Attacks (Completed 2020-12-18) ###
 - [x] ~~Module 1. History of Cybersecurity~~ **(completed 2020-12-17)**
 - [x] ~~Module 2. A brief overview of types of actors and their motives~~ **(completed 2020-12-18)**
 - [x] ~~Module 3. An overview of key security concepts~~ **(completed 2020-12-18)**
-- [ ] Module 4. An overview of key security tools 
+- [x] ~~Module 4. An overview of key security tools~~ **(completed 2020-12-18)**
 
 ### Course 2. Cybersecurity Roles, Processes & Operating System Security ###
 - [ ] Module 1. People Process & Technology
