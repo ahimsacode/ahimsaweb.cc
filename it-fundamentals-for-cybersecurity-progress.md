@@ -15,8 +15,8 @@ This page was created to track my progress through the [IBM IT Fundamentals for 
 - [x] ~~Module 4. Overview of Virtualization~~ **(completed 2020-12-19)**
 
 ### Course 3. Cybersecurity Compliance Framework & System Administration ###
-- [ ] Module 1. Compliance Frameworks and Industry Standards
-- [ ] Module 2. Client System Administration, Endpoint Protection and Patching
+- [x] ~~Module 1. Compliance Frameworks and Industry Standards~~ **(completed 2020-12-19)**
+- [x] ~~Module 2. Client System Administration, Endpoint Protection and Patching~~ **(completed 2020-12-19)**
 - [ ] Module 3. Server and User Administration
 - [ ] Module 4. Cryptography and Compliance Pitfalls
 
