@@ -8,11 +8,11 @@ This page was created to track my progress through the [IBM IT Fundamentals for 
 - [x] ~~Module 3. An overview of key security concepts~~ **(completed 2020-12-18)**
 - [x] ~~Module 4. An overview of key security tools~~ **(completed 2020-12-18)**
 
-### Course 2. Cybersecurity Roles, Processes & Operating System Security ###
-- [ ] Module 1. People Process & Technology
-- [ ] Module 2. Examples & Principles of the CIA Triad; Authentication and Access Control
-- [ ] Module 3: Windows Operating System Security Basics; Linux Operating System Security Basics; macOS Security Basics
-- [ ] Module 4. Overview of Virtualization
+### Course 2. Cybersecurity Roles, Processes & Operating System Security  (Completed 2020-12-19) ###
+- [x] ~~Module 1. People Process & Technology~~ **(completed 2020-12-19)**
+- [x] ~~Module 2. Examples & Principles of the CIA Triad; Authentication and Access Control~~ **(completed 2020-12-19)**
+- [x] ~~Module 3: Windows Operating System Security Basics; Linux Operating System Security Basics; macOS Security Basics~~ **(completed 2020-12-19)**
+- [x] ~~Module 4. Overview of Virtualization~~ **(completed 2020-12-19)**
 
 ### Course 3. Cybersecurity Compliance Framework & System Administration ###
 - [ ] Module 1. Compliance Frameworks and Industry Standards
