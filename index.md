@@ -1,4 +1,5 @@
 This website exists as a repository for full my stack development training projects.
+
 ---
 ### Current pages on this website include:  
 - **[100DaysOfCode](/100daysofcode.md)**  
