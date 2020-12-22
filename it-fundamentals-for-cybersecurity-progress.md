@@ -20,8 +20,8 @@ This page was created to track my progress through the [IBM IT Fundamentals for 
 - [x] ~~Module 3. Server and User Administration~~ **(completed 2020-12-20)**
 - [x] ~~Module 4. Cryptography and Compliance Pitfalls~~ **(completed 2020-12-20)**
 
-### Course 4. Network Security & Database Vulnerabilities (completed 2020-12-21) ###
+### Course 4. Network Security & Database Vulnerabilities (completed 2020-12-22) ###
 - [x] ~~Module 1. TCP/IP Framework~~ **(completed 2020-12-21)**
 - [x] ~~Module 2. Basics of IP Addresses and the OSI Model~~ **(completed 2020-12-21)**
-- [x] ~~Module 3. Introduction to Databases~~ **(completed 2020-12-21)**
-- [x] ~~Module 4. Deep Dive. Injection Vulnerability~~ **(completed 2020-12-21)**
+- [x] ~~Module 3. Introduction to Databases~~ **(completed 2020-12-22)**
+- [x] ~~Module 4. Deep Dive. Injection Vulnerability~~ **(completed 2020-12-22)**
