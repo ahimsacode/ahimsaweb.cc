@@ -91,7 +91,7 @@
 
 --- -->
 ### Day 9: Tuesday, 22 December 2020
-**Today's Progress:**
+**Today's Progress:**  
 
 
 **Thoughts:**
@@ -102,32 +102,32 @@
 
 ---
 ### Day 8: Tuesday, 21 December 2020
-**Today's Progress:**
+**Today's Progress:**  
 I spent more time learning about #cybersecurity. I worked on the IBM IT Fundamentals for Cybersecurity specialization, but now I'm dying to sleep. I plan to finish the IBM course tomorrow and when I'm not racing against the clock get back to freeCodeCamp
 
 ---
 ### Day 7: Tuesday, 20 December 2020
-**Today's Progress:**
+**Today's Progress:**  
 Today I completed the IBM Cybersecurity Compliance Framework & System Administration course and started the IBM Network Security & Database Vulnerabilities course.
 
 ---
 ### Day 6: Tuesday, 19 December 2020
-**Today's Progress:**
+**Today's Progress:**  
 Today I spent more time today learning about #cybersecurity . I completed the IBM Cybersecurity Roles, Processes & Operating System Security course and started working on the IBM Cybersecurity Compliance Framework & System Administration course. 
 
 ---
 ### Day 5: Tuesday, 18 December 2020
-**Today's Progress:**
+**Today's Progress:**  
 Today I spent time today learning about cybersecurity . I completed the IBM Introduction to Cybersecurity Tools & Cyber Attacks course and started working on the IBM Cybersecurity Roles, Processes & Operating System Security course.
 
 ---
 ### Day 4: Tuesday, 17 December 2020
-**Today's Progress:**
+**Today's Progress:**  
 Today I spent a good chunk of the day becoming more familiar with Linux and I also spent some time [learning about and falling in love with cybersecurity](it-fundamentals-for-cybersecurity.md). I plan to return to working on my freeCodeCamp projects tomorrow.
 
 ---
 ### Day 3: Tuesday, 16 December 2020
-**Today's Progress:**
+**Today's Progress:**  
 I am spent today working on the same project I thought I was about to finish up yesterday. Many frustrations and it's been both a learning experience and deeply humbling.
 
 ---
