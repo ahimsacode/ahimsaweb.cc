@@ -1,4 +1,4 @@
-## IBM Cybersecurity Security Analyst Professional Certificate Program Log
+## IBM Cybersecurity Security Analyst Professional Certificate Program Log  
 This simple microblog was created to track my progress through the [IBM Cybersecurity Security Analyst Professional Certificate Program](https://www.ibm.com/training/badge/a471481b-3152-4e09-b43f-ab1d8bf31620). 
 
 [[View current progress]](cybersecurity-security-analyst-professional-certificate-program-progress.md) 
@@ -39,8 +39,4 @@ Today I finished module 2 (****"A brief overview of types of actors and their mo
 -->
 ---
 ### Day 1: Tuesday, 22 December, 2020
-**Today's Progress:**  
-Today I completed the materials for module 1 of the **Introduction to Cybersecurity Tools & Cyber Attacks** course. I completed the first module (**"History of Cybersecurity"**) and about 2/3 of the second module (**"A brief overview of types of actors and their motives"**).
-
-**Thoughts:**  
-The first module was titled **"History of Cybersecurity"**, but the module covered **much** more than that (in fact history made up a couple of videos and a fraction of the material) and this module could have been more accurately titled **"Introduction to Cybersecurity"**. The material of both modules was full of much less review materials than I experienced with the **Technical Support Fundamentals** course for the [Google IT Support Professional Certificate Program](it-support-pro-certificate-progress.md) and I've found the material both more challenging and much more engaging. I've always had a passing interest in cybersecurity, but actually taking the time to begin learning it and I think I may have accidentally stumbled on a new passion!
+After completing the **IBM IT Fundamentals for Cybersecurity** specialization certificate today, I committed to completing the [**IBM Cybersecurity Security Analyst Professional Certificate program**](https://www.ibm.com/training/badge/a471481b-3152-4e09-b43f-ab1d8bf31620). I made it through module 1 (**Penetration Testing**) and module 2 (**Incident Response**) of Course 5 — **Penetration Testing, Incident Response and Forensics**.
