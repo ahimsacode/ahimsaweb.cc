@@ -90,56 +90,37 @@
 **Link to work:**
 
 --- -->
-<!--### Day 9: Tuesday, 22 December 2020
+### Day 9: Tuesday, 22 December 2020
 **Today's Progress:**
 
 
 **Thoughts:**
 
 
-**Link to work:**
+**Accomplishment:**
 
---- -->
-<!--### Day 8: Tuesday, 21 December 2020
+
+---
+### Day 8: Tuesday, 21 December 2020
 **Today's Progress:**
+I spent more time learning about #cybersecurity. I worked on the IBM IT Fundamentals for Cybersecurity specialization, but now I'm dying to sleep. I plan to finish the IBM course tomorrow and when I'm not racing against the clock get back to freeCodeCamp
 
-
-**Thoughts:**
-
-
-**Link to work:**
-
---- -->
-<!--### Day 7: Tuesday, 20 December 2020
+---
+### Day 7: Tuesday, 20 December 2020
 **Today's Progress:**
+Today I completed the IBM Cybersecurity Compliance Framework & System Administration course and started the IBM Network Security & Database Vulnerabilities course.
 
-
-**Thoughts:**
-
-
-**Link to work:**
-
---- -->
-<!--### Day 6: Tuesday, 19 December 2020
+---
+### Day 6: Tuesday, 19 December 2020
 **Today's Progress:**
+Today I spent more time today learning about #cybersecurity . I completed the IBM Cybersecurity Roles, Processes & Operating System Security course and started working on the IBM Cybersecurity Compliance Framework & System Administration course. 
 
-
-**Thoughts:**
-
-
-**Link to work:**
-
---- -->
-<!--### Day 5: Tuesday, 18 December 2020
+---
+### Day 5: Tuesday, 18 December 2020
 **Today's Progress:**
+Today I spent time today learning about cybersecurity . I completed the IBM Introduction to Cybersecurity Tools & Cyber Attacks course and started working on the IBM Cybersecurity Roles, Processes & Operating System Security course.
 
-
-**Thoughts:**
-
-
-**Link to work:**
-
---- -->
+---
 ### Day 4: Tuesday, 17 December 2020
 **Today's Progress:**
 Today I spent a good chunk of the day becoming more familiar with Linux and I also spent some time [learning about and falling in love with cybersecurity](it-fundamentals-for-cybersecurity.md). I plan to return to working on my freeCodeCamp projects tomorrow.
