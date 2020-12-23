@@ -1,6 +1,8 @@
 ## IBM IT Fundamentals for Cybersecurity Log
 This simple microblog was created to track my progress through the [IBM IT Fundamentals for Cybersecurity certificate program](https://www.ibm.com/training/badge/aa8b45a3-df14-4874-87bc-5b8c1276407e). 
 
+**UPDATE (2020-12-22)**  
+On December 22, 2020 I earned my **IBM IT Fundamentals for Cybersecurity** badge. This blog is no longer being updated.  
 [[View current progress]](it-fundamentals-for-cybersecurity-progress.md) 
 
 
