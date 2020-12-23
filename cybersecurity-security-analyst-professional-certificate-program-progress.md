@@ -28,7 +28,7 @@ This page was created to track my progress through the [IBM Cybersecurity Securi
 
 ### Course 5. Penetration Testing, Incident Response and Forensics ###  
 - [x] ~~Module 1. Penetration Testing~~ **(completed 2020-12-22)**
-- [x] ~~Module 2. Incident Responseg~~ **(completed 2020-12-22)**
+- [x] ~~Module 2. Incident Response~~ **(completed 2020-12-22)**
 - [ ] Module 3. Digital Forensics
 - [ ] Module 4. Introduction to Scripting
 
