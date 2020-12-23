@@ -27,7 +27,7 @@ This page was created to track my progress through the [IBM Cybersecurity Securi
 - [x] ~~Module 4. Deep Dive. Injection Vulnerability~~ **(completed 2020-12-22)**
 
 ### Course 5. Penetration Testing, Incident Response and Forensics ###  
-- [x] ~~Module 1. Penetration Testing~~ **(completed 2020-12-21)**
+- [x] ~~Module 1. Penetration Testing~~ **(completed 2020-12-22)**
 - [ ] Module 2. Incident Response
 - [ ] Module 3. Digital Forensics
 - [ ] Module 4. Introduction to Scripting
