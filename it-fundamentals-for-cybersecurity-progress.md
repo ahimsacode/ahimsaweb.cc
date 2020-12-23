@@ -3,7 +3,7 @@ IBM IT Fundamentals for Cybersecurity Progress
 This page was created to track my progress through the [IBM IT Fundamentals for Cybersecurity](https://www.ibm.com/training/badge/aa8b45a3-df14-4874-87bc-5b8c1276407e). I am also keeping [a regular microblog](/it-fundamentals-for-cybersecurity) to document my progress.  
 
 **UPDATE (2020-12-22)**  
-On December 22, 2020 I earned my **IBM IT Fundamentals for Cybersecurity** badge. This blog is no longer being updated.  
+On December 22, 2020 I earned my **IBM IT Fundamentals for Cybersecurity** badge. This page is no longer being updated.  
 
 ### Course 1. Introduction to Cybersecurity Tools & Cyber Attacks (Completed 2020-12-18) ###
 - [x] ~~Module 1. History of Cybersecurity~~ **(completed 2020-12-17)**
