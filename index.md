@@ -16,8 +16,7 @@ This simple site was created to track my progress through the Google IT Support 
 This simple microblog was created to track my progress through the IBM IT Fundamentals for Cybersecurity certificate program.
 - **[IBM IT Fundamentals for Cybersecurity Certificate Progress](/it-fundamentals-for-cybersecurity-progress.md)**  
 This simple site was created to track my progress through the IBM IT Fundamentals for Cybersecurity certificate program.
-- **[IBM Cybersecurity Security Analyst Professional Certificate Program Log](/cybersecurity-security-analyst-professional-certificate-program.md
-)**  
+- **[IBM Cybersecurity Security Analyst Professional Certificate Program Log](/cybersecurity-security-analyst-professional-certificate-program.md)**  
 This simple microblog was created to track my progress through the IBM Cybersecurity Security Analyst Professional Certificate Program.
 - **[IBM Cybersecurity Security Analyst Professional Certificate Program Progress](/cybersecurity-security-analyst-professional-certificate-program-progress.md)**  
 This simple site was created to track my progress through the IBM Cybersecurity Security Analyst Professional Certificate Program.
