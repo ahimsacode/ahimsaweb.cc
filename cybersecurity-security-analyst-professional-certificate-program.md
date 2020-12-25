@@ -25,18 +25,20 @@ Today I finished the **TCP/IP Framework** and **Basics of IP Addresses and the O
 **Today's Progress:**  
 Today I finished the final 2 modules of the **Cybersecurity Compliance Framework & System Administration** — **Server and User Administration** and **Cryptography and Compliance Pitfalls**.
 -->
-<!--
+
 ---
-### Day 3: Saturday, 19 December, 2020
+### Day 3: Thursday, 24 December, 2020
 **Today's Progress:**  
-Today I completed all 4 modules of the **Cybersecurity Roles, Processes & Operating System Security** course (**People Process & Technology**, **Examples & Principles of the CIA Triad; Authentication and Access Control**, **Windows Operating System Security Basics; Linux Operating System Security Basics; macOS Security Basics**, and **Overview of Virtualization**)as well as modules 1 (**Compliance Frameworks and Industry Standards**) and 2 (**Client System Administration, Endpoint Protection and Patching**) of Course 3: **Cybersecurity Compliance Framework & System Administration**.
--->
-<!--
+Today I finished up the **Introduction to Scripting** module and wrapped up the **Penetration Testing, Incident Response and Forensics** course. I then started the **Cyber Threat Intelligence** course by completing module 1 (**Threat Intelligence**).
+
 ---
-### Day 2: Friday, 18 December, 2020
+### Day 2: Wednesday, 23 December, 2020
 **Today's Progress:**  
-Today I finished module 2 (****"A brief overview of types of actors and their motives"**), I completed module 3 (**"An overview of key security concepts"**)
--->
+Much of my day was consumed with dealing with some tecnhincal issues not directly related to this course. I did manage to get through module 3 (**Digital Forensics**) and I started module 4 (**Introduction to Scripting**)
+
+**Thoughts:**  
+While the digital forensics materials were interesting, I had been looking forward to the module on scripting. I was dissapointed to find the audio quality in the early scripting lessons was absolutely terrible. I can only hope that this audio issue is contained to the couple of lessons I've struggled through so far and that I won't have to put up with this for the remainder of the certificate program.
+
 ---
 ### Day 1: Tuesday, 22 December, 2020
 After completing the **IBM IT Fundamentals for Cybersecurity** specialization certificate today, I committed to completing the [**IBM Cybersecurity Security Analyst Professional Certificate program**](https://www.ibm.com/training/badge/a471481b-3152-4e09-b43f-ab1d8bf31620). I made it through module 1 (**Penetration Testing**) and module 2 (**Incident Response**) of Course 5 — **Penetration Testing, Incident Response and Forensics**.

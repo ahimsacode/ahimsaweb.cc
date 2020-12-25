@@ -80,16 +80,10 @@
 **Link to work:**
 
 --- -->
-<!--### Day 10: Tuesday, 23 December 2020
+### Day 10: Tuesday, 23 December 2020
 **Today's Progress:**
+I'm really exhausted. I accidentally deleted my main hard drive with macOS installed on it today. I have a Time Machine backup from this morning, but I have run into some problems getting macOS back up and running. I've got Ubuntu going and may just stick with Linux on this machine and return to macOS one day when I can afford a new laptop. On top of all of that, I also spent some time learning about digital forensics and a bit about scripting for the IBM cybersecurity course.
 
-
-**Thoughts:**
-
-
-**Link to work:**
-
---- -->
 ### Day 9: Tuesday, 22 December 2020
 **Today's Progress:**  
 I finished the Introduction to Databases and the Injection Vulnerability modules of the Network Security & Database Vulnerabilities course, completing all of the materials for the IBM IT Fundamentals for Cybersecurity specialization certificate. After completing the **IBM IT Fundamentals for Cybersecurity** specialization certificate today, I committed to completing the [**IBM Cybersecurity Security Analyst Professional Certificate program**](https://www.ibm.com/training/badge/a471481b-3152-4e09-b43f-ab1d8bf31620). I made it through module 1 (**Penetration Testing**) and module 2 (**Incident Response**) of Course 5 — **Penetration Testing, Incident Response and Forensics**. I created [a page to blog about my journey](cybersecurity-security-analyst-professional-certificate-program.md) and [another to track my progress](cybersecurity-security-analyst-professional-certificate-program-progress.md). 
