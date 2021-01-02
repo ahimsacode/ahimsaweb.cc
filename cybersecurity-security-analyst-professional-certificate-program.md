@@ -1,7 +1,7 @@
 ## IBM Cybersecurity Security Analyst Professional Certificate Program Log  
-This simple microblog was created to track my progress through the [IBM Cybersecurity Security Analyst Professional Certificate Program](https://www.ibm.com/training/badge/a471481b-3152-4e09-b43f-ab1d8bf31620). 
+This simple microblog was created to track my progress through the [IBM Cybersecurity Security Analyst Professional Certificate Program](https://www.ibm.com/training/badge/a471481b-3152-4e09-b43f-ab1d8bf31620).
 
-[[View current progress]](cybersecurity-security-analyst-professional-certificate-program-progress.md) 
+[[View current progress]](cybersecurity-security-analyst-professional-certificate-program-progress.md)
 
 <!--
 ### Day 6: Tuesday, 22 December, 2020
@@ -19,12 +19,17 @@ Now that I have completed this certificate, I am moving on to work toward the [*
 **Today's Progress:**  
 Today I finished the **TCP/IP Framework** and **Basics of IP Addresses and the OSI Model** modules of the **Network Security & Database Vulnerabilities** course.
 -->
-<!--
+
 ---
-### Day 4: Sunday, 20 December, 2020
+### Day 4*: Friday, 1 January 2021
+**Update:**  
+
+
 **Today's Progress:**  
-Today I finished the final 2 modules of the **Cybersecurity Compliance Framework & System Administration** — **Server and User Administration** and **Cryptography and Compliance Pitfalls**.
--->
+
+
+**Thoughts:**  
+
 
 ---
 ### Day 3: Thursday, 24 December, 2020
